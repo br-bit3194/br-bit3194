@@ -1,9 +1,8 @@
-<p align="left">
-   <img src="https://github.com/user-attachments/assets/f0e981ef-d2fe-4ee4-ad6c-64a3654d62cf" width="200" height="200" style="border-radius: 50%; object-fit: cover;" alt="Bhaveshkumar Rathod Profile Photo" />
-</p>
-
-
 # 👋 Hi, I'm Bhavesh Rathod
+
+<style align="left">
+   <img src="https://github.com/user-attachments/assets/f0e981ef-d2fe-4ee4-ad6c-64a3654d62cf" width="200" height="200" style="border-radius: 50%; object-fit: cover;" alt="Bhaveshkumar Rathod Profile Photo" />
+</style>
 
 ![image](https://github.com/user-attachments/assets/6fcb27c9-caa4-4cc9-8631-1af986cd8488)
 
