@@ -1,4 +1,7 @@
-![Copy of linkedIn profile dp (1) (2)](https://github.com/user-attachments/assets/bb423d1c-b9b1-40a2-8894-f07023c9750b)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bb423d1c-b9b1-40a2-8894-f07023c9750b" width="300" style="border-radius: 10px;" alt="Bhaveshkumar Rathod Profile Photo" />
+</p>
+
 # 👋 Hi, I'm Bhavesh Rathod
 
 ![image](https://github.com/user-attachments/assets/6fcb27c9-caa4-4cc9-8631-1af986cd8488)
