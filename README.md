@@ -1,4 +1,6 @@
-# 👋 Hi, I'm Bhaveshkumar Rathod
+# 👋 Hi, I'm Bhavesh Rathod
+
+![image](https://github.com/user-attachments/assets/6fcb27c9-caa4-4cc9-8631-1af986cd8488)
 
 ## 🧑‍💻 About Me
 
@@ -56,10 +58,6 @@ I share my insights and experiences on backend development and system design on 
 
 - [Google AI Essentials](https://www.linkedin.com/posts/bhaveshkumar-rathod_google-ai-essentials-certificate-activity-7302168373579145218-AVjP)
 - [Microsoft GitHub Copilot](https://www.linkedin.com/posts/bhaveshkumar-rathod_microsoftlearn-githubcopilot-certificateachieved-activity-7270730632064888832-wxX6)
-
-## 📈 GitHub Stats
-
-![Bhaveshkumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ## 📫 Let's Connect
 
