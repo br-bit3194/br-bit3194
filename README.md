@@ -1,6 +1,7 @@
 <p align="left">
-   <img src="https://github.com/user-attachments/assets/f0e981ef-d2fe-4ee4-ad6c-64a3654d62cf" width="200" height="200" style="border-radius: 50%;" alt="Bhaveshkumar Rathod Profile Photo" />
+   <img src="https://github.com/user-attachments/assets/f0e981ef-d2fe-4ee4-ad6c-64a3654d62cf" width="200" height="200" style="border-radius: 50%; object-fit: cover;" alt="Bhaveshkumar Rathod Profile Photo" />
 </p>
+
 
 
 # 👋 Hi, I'm Bhavesh Rathod
