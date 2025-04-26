@@ -1,14 +1,6 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/bb423d1c-b9b1-40a2-8894-f07023c9750b" width="200" height="200" style="border-radius: 50%;" alt="Bhaveshkumar Rathod Profile Photo" />
-  <div style="display: inline-block; padding-left: 20px;">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" width="50" alt="Python" />
-    <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" width="50" alt="Django" />
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" width="50" alt="AWS" />
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" width="50" alt="Linux" />
-    <img src="https://img.shields.io/badge/Razorpay-02042B?style=flat&logo=razorpay&logoColor=white" width="50" alt="Razorpay" />
-  </div>
-</p>
-
+<p align="left">
+   <img src="https://github.com/user-attachments/assets/f0e981ef-d2fe-4ee4-ad6c-64a3654d62cf" width="300" style="border-radius: 10px;" alt="Bhaveshkumar Rathod Profile Photo" />
+ </p>
 
 # 👋 Hi, I'm Bhavesh Rathod
 
