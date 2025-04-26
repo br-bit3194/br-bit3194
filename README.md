@@ -1,10 +1,6 @@
 <p align="left">
    <img src="https://github.com/user-attachments/assets/f0e981ef-d2fe-4ee4-ad6c-64a3654d62cf" width="200" height="200" style="border-radius: 50%; object-fit: cover;" alt="Bhaveshkumar Rathod Profile Photo" />
-   img {
-     border-radius: 50%;
-   }
 </p>
-
 
 
 # 👋 Hi, I'm Bhavesh Rathod
@@ -16,20 +12,21 @@
 I'm a Software Engineer-2 at Talentica Software with 4+ years of experience in backend development. I specialize in building scalable microservices, designing robust APIs, and ensuring system reliability. My passion lies in creating efficient backend systems that solve real-world problems.
 
 - 🔧 Currently working at Talentica Software as a Software Engineer-2
-- 🌱 Exploring containerization with Docker and orchestration with Kubernetes
-- 💬 Ask me about Python, RESTful API design, and system reliability
+- 🌱 Exploring AWS services & GenAI (Gemini)
+- 💬 Ask me about Python, RESTful API design, Pandas, Razorpay payment gateway, AWS, Generative AI(GenAI)
 - 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/bhaveshkumar-rathod/)
 
 ## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat&logo=razorpay&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ## 🚀 Projects
 
