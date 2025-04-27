@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Bhavesh Rathod
 
+![image](https://github.com/user-attachments/assets/6fcb27c9-caa4-4cc9-8631-1af986cd8488)
+
 ## 🧑‍💻 About Me
 
 I'm a Software Engineer-2 at Talentica Software with 4+ years of experience in backend development. I specialize in building scalable microservices, designing robust APIs, and ensuring system reliability. My passion lies in creating efficient backend systems that solve real-world problems.
@@ -10,8 +12,6 @@ I'm a Software Engineer-2 at Talentica Software with 4+ years of experience in b
 - 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/bhaveshkumar-rathod/)
 
 ## 🛠️ Tech Stack
-
-![image](https://github.com/user-attachments/assets/6fcb27c9-caa4-4cc9-8631-1af986cd8488)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
