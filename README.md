@@ -57,8 +57,15 @@ I share my insights and experiences on backend development and system design on 
 
 ## 📜 Certifications
 
-- [Google AI Essentials](https://www.linkedin.com/posts/bhaveshkumar-rathod_google-ai-essentials-certificate-activity-7302168373579145218-AVjP)
-- [Microsoft GitHub Copilot](https://www.linkedin.com/posts/bhaveshkumar-rathod_microsoftlearn-githubcopilot-certificateachieved-activity-7270730632064888832-wxX6)
+<div style="display: flex; gap: 20px;">
+  <a href="https://www.linkedin.com/posts/bhaveshkumar-rathod_google-ai-essentials-certificate-activity-7302168373579145218-AVjP" target="_blank">
+    <img src="https://media.licdn.com/dms/image/D4D22AQFiTuLRQtNE1A/feedshare-shrink_800/0/1712150648031?e=1717027200&v=beta&t=aqqnM4TXiopYShHzQ3aPtYIjG1psv1sI5eqLCNtrqS8" alt="Google AI Essentials" width="200"/>
+  </a>
+
+  <a href="https://www.linkedin.com/posts/bhaveshkumar-rathod_microsoftlearn-githubcopilot-certificateachieved-activity-7270730632064888832-wxX6" target="_blank">
+    <img src="https://media.licdn.com/dms/image/D5622AQHApCPq5HiYvw/feedshare-shrink_800/0/1691122035666?e=1717027200&v=beta&t=8bgK7gHgcAj2JFRapq6RmZPXXY1qEmJmY_GdQkLacj0" alt="Microsoft GitHub Copilot" width="200"/>
+  </a>
+</div>
 
 ## 📫 Let's Connect
 
