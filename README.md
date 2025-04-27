@@ -67,7 +67,7 @@ I share my insights and experiences on backend development and system design on 
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" style="vertical-align: middle;"/>
   </a>
 
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:bhavesh3194@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="30" style="vertical-align: middle;"/>
   </a>
 </div>
