@@ -1,9 +1,5 @@
 # 👋 Hi, I'm Bhavesh Rathod
 
-<div align="left">
-   <img src="https://github.com/user-attachments/assets/f0e981ef-d2fe-4ee4-ad6c-64a3654d62cf" width="200" height="200" style="border-radius: 50%; object-fit: cover;" alt="Bhaveshkumar Rathod Profile Photo" />
-</div>
-
 ## 🧑‍💻 About Me
 
 I'm a Software Engineer-2 at Talentica Software with 4+ years of experience in backend development. I specialize in building scalable microservices, designing robust APIs, and ensuring system reliability. My passion lies in creating efficient backend systems that solve real-world problems.
