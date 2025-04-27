@@ -54,7 +54,7 @@ A data synchronization pipeline using Debezium, Kafka, and MySQL.
 I share my insights and experiences on backend development and system design on Medium.
 
 <a href="https://medium.com/@bhavesh3194" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968885.png" alt="Medium" width="30" style="background-color: black; padding: 5px; border-radius: 50%;"/>
+  <img src="https://miro.medium.com/v2/resize:fill:88:88/1*tcVQxwJJ5wUDB8sX7_BCqA.png" alt="Bhavesh's Medium" width="40" style="background-color: white; border-radius: 50%; padding: 2px;"/>
 </a>
 
 
