@@ -7,7 +7,7 @@
 I'm a Software Engineer-2 at Talentica Software with 4+ years of experience in backend development. I specialize in building scalable microservices, designing robust APIs, and ensuring system reliability. My passion lies in creating efficient backend systems that solve real-world problems.
 
 - 🔧 Currently working at Talentica Software as a Software Engineer-2
-- 🌱 Exploring AWS services & GenAI (Gemini)
+- 🌱 Exploring AWS services, GCP services & GenAI (Gemini)
 - 💬 Ask me about Python, RESTful API design, Pandas, Razorpay payment gateway, AWS, Generative AI(GenAI)
 - 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/bhaveshkumar-rathod/)
 
